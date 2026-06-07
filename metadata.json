@@ -1,0 +1,6 @@
+{
+  "name": "Meeting Minutes Audio Processor",
+  "description": "Upload MP3 meeting audio files to automatically transcribe to Khmer text, clean up speech hesitations, and generate a standardized Cambodian formal meeting document.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
